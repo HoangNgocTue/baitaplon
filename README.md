@@ -3,8 +3,8 @@
 1. Clone repo:
 
 ```bash
-git clone https://github.com/your-username/kenh14-suckhoe.git
-cd kenh14-suckhoe
+git clone https://github.com/HoangNgocTue/baitaplon.git
+cd baitaplon
 ```
 
 2. Cài đặt thư viện:
