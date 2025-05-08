@@ -3,8 +3,8 @@
 1. Clone repo:
 
 ```bash
-git clone https://github.com/your-username/kenh14-suckhoe-crawler.git
-cd kenh14-suckhoe-crawler
+git clone https://github.com/your-username/kenh14-suckhoe.git
+cd kenh14-suckhoe
 ```
 
 2. Cài đặt thư viện:
