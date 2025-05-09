@@ -30,12 +30,12 @@ python kenh14.py
 ## Tùy chỉnh
 Thay đổi số trang cần crawl:
 ```python
-crawl_all_pages(max_pages=5)  
+quet_trang(max_pages=5)  
 ```
 
 ## Thay đổi thời gian tự động chạy:
 ```python
-schedule.every().day.at("06:00").do(lambda: crawl_all_pages(max_pages=5)) 
+schedule.every().day.at("06:00").do(lambda: quet_trang(max_pages=5)) 
 ```
 ## Kết quả
 
